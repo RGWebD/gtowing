@@ -450,6 +450,8 @@ address{font-style:normal;line-height:1.8}
  .callcard,.hourscard,.planner{padding:24px}
  .bignum{font-size:clamp(26px,8.4vw,40px);font-stretch:100%}
  .callcard .ctas .btn{flex:1 1 100%;justify-content:center}
+ .btn.xl{font-size:16px;padding:0 20px;min-height:58px}
+ .btn{max-width:100%}
  .fgrid{grid-template-columns:minmax(0,1fr)}
  .mbar{display:flex}
  .ftr{padding-bottom:120px}
