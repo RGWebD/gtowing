@@ -418,14 +418,14 @@ address{font-style:normal;line-height:1.8}
 @media (max-width:700px){
  .wrap{width:calc(100% - 36px)}
  .brand img{height:40px}
- .hero{display:block;min-height:0;padding:calc(46svh - 10px) 0 70px}
+ .hero{display:block;min-height:0;padding:calc(50svh + 6px) 0 70px}
  .hero .hero-ph{left:0;bottom:auto;height:50svh;clip-path:polygon(0 0,100% 0,100% 84%,0 100%)}
  .hero-ph img{object-position:30% 55%}
  .hero-cut{display:none}
  .hero-tag{display:none}
  .hero-sh{bottom:auto;height:50svh;background:linear-gradient(180deg,rgba(10,15,30,.7),transparent 30%)}
  .hero .bgword{display:none}
- .hero h1{font-size:clamp(42px,12.4vw,60px)}
+ .hero h1{font-size:clamp(38px,10.9vw,56px)}
  .hero .ctas .btn{flex:1 1 100%;justify-content:center}
  .hscroll{display:none}
  .phero{min-height:72svh;padding:120px 0 70px}
