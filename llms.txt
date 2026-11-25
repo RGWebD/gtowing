@@ -1,0 +1,37 @@
+# G Towing & Wrecker Service
+
+> Towing service in Garland, Texas. Rated 4.4 from 450 Google reviews. Women-owned.
+
+- Address: 3809 Dividend Dr, Garland, TX 75042
+- Phone: (469) 756-9818
+- Google category: Towing service
+- Google Maps: https://www.google.com/maps/place/G+Towing+%26+Wrecker+Service/@32.8989485,-96.6890066,17z/data=!3m1!4b1!4m6!3m5!1s0x864ea09e471a4477:0xe805fd4640eda0f7!8m2!3d32.8989485!4d-96.6890066!16s%2Fg%2F11fylyrp86
+- Hours (Central Time, as listed on Google for Thanksgiving week 2026): Monday 6 AM–12 AM; Tuesday 6 AM–12 AM; Wednesday 6 AM–5 PM; Saturday 8 AM–10 PM; Sunday closed. Thanksgiving (Thu Nov 26, 2026) closed; Black Friday (Fri Nov 27, 2026) 6 AM–12 AM. Regular Thursday and Friday hours: call to confirm.
+- Payments: credit cards, debit cards
+- Listing attributes: women-owned; LGBTQ+ friendly; transgender safe space; language assistance; wheelchair-accessible entrance, parking lot, restroom and seating
+
+## Services
+- Car towing (Google review tag)
+- Flatbed towing (Google review tag)
+- Job photos also show a wheel-lift tow truck, a heavy-duty wrecker, a box truck on a flatbed and a boat on a flatbed. These are not an official service list, so call to confirm.
+
+## Pages
+- Home: https://rgwebd.github.io/gtowing/
+- Services: https://rgwebd.github.io/gtowing/services.html
+- About & Fleet (photo gallery): https://rgwebd.github.io/gtowing/fleet.html
+- Reviews: https://rgwebd.github.io/gtowing/reviews.html
+- Contact, hours, map and FAQ: https://rgwebd.github.io/gtowing/contact.html
+
+## Google reviews (verbatim, positive selection)
+- jaye (6 months ago, 5 stars): "just helped my little brother tow his silverado truck. got there just in time before the storm. 5 stars, man who was over the phone is the goat. tow man was awesome. thank you guys again! 10/10"
+- Anthony Clark (6 years ago, 5 stars): "Very quick, courteous and polite. Quick to load and get your vehicle to the repair shop of your choice, I’d use them anytime"
+- Amanda Graves (5 years ago): "This company was amazing! They were so accommodating. I had to leave, to go get my loaner car as I had an appointment to get to, and they came and got my car out of the garage and shut the garage behind them. Then they even sent me a picture of it closed when they left and delivered my car to the dealership. I really appreciate the great communication and above and beyond efforts from these drivers who got the job done hassle free!"
+- Shantearra Cook (6 years ago, 5 stars): "These people are awesome my car broke down in the middle of the road and they towed it for me back to my house. I called them a few days later and they came and got it for me and fixed it the next day! They were really nice to me and I recommend anybody to them! Thank u!"
+- David Thetford (3 years ago, 5 stars): "My driver never called me but was very professional. His name was Doug. I only needed a short tow which was 3 miles. Even though I broken down I still made the best of my short wait which was only 20-30 minutes. Wasn't timing the dispatcher honestly. Just feeling the comfort help was on the way. I'll be using them again and honestly their rates are very affordable and competitive."
+- Gwendolyn Thomas (5 years ago): "Fast; gave me an ETA of an hour and showed up in 30 mins. Friendly and courteous. And affordable. Half as much as the previous service I used (who wanted to add an extra charge for everything. When you are female caught out with your car down who needs that? ) I recommend Reliable with no reservations. I am very happy with the service I received."
+- Chelsea Coulter (6 years ago): "My insurance company contracted Reliable after another towing company cancelled the tow job after waiting hours. Reliable finished their job and made it to my car within 30 mins! He even jumped my car to make sure it was not a battery issue and offered to take it to a local mechanic shop. Great service!"
+- Cesar Robles (6 years ago): "The guys are very friendly. Gave you options on how to deal with your troubled car. We called them they got there with in 30min. They offered their mechanic which is also very professional and not pushy. The mechanic was very honest and if he was not able to fix it he recommended a transmission expert. THANKS for making an unpleasant time pleasant"
+- James Howe (5 years ago): "These guys were fast and at a fair price, I was broke down at a major intersection in Dallas and they scooped my truck up in under 5 minutes..  I highly recommend them, driver was safety first but understood the urgency to get the vehicle out of people’s way! Well done reliable, well done!" [As shown on Google; the full review may continue there.]
+
+## Notes
+- This is a design preview built by RGWebD. For a tow, call (469) 756-9818.
